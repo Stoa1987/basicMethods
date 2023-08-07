@@ -1,3 +1,3 @@
-window.senRequest = function() {
-  return console.log("hello word");
+window.sendRequest = function() {
+  return "hello word";
 }
